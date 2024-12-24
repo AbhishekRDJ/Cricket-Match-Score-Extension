@@ -59,6 +59,27 @@ This extension fetches live cricket data using an external API. To set up:
    ```javascript
    const API_KEY = "your-api-key";
    ```
+## Development 🛠️
+1. Clone the repository:
+   
+   ```bash
+    git clone https://github.com/AbhishekRDJ/Cricket-Match-Score-Extension.git
+   ```
+2. Create a new branch for your feature or bugfix:
+   ```bash
+    git checkout -b feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Description of your changes"
+   ```
+4. Push your branch to your forked repository
+   ```bash
+    git push origin feature-name
+   ```
+5. Open a Pull Request on the main repository.
+   
+
 
 ## Contributing 📚
 
@@ -87,3 +108,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Enjoy seamless live cricket score updates while browsing the web! 🌍⚽
+
+## Additional Sections
+* Contact: Provide information on how users can contact you for support or inquiries. *
+  Gamil: ``` abhisheksangule6@gmail.com ```
